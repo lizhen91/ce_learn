@@ -3,4 +3,8 @@ git is free software distributed usder the GPl
 git test
 git dif
 creatd a branch dev
-create brach feat 
+<<<<<<< HEAD
+created branch feat 
+=======
+created branch feat 
+>>>>>>> feat
