@@ -3,7 +3,7 @@ git is free software distributed usder the GPl
 git test
 git dif
 creatd a branch dev
-<<<<<<< HEAD
+add_merge<<<<<< HEAD
 created branch feat 
 =======
 created branch feat 
